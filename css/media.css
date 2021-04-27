@@ -1,0 +1,215 @@
+@media screen and (min-width:1200px) {}
+
+
+
+@media screen and (min-width:1200px) and (max-width: 1280px) {}
+
+
+
+@media screen and (min-width:992px) and (max-width: 1199px) {
+	.ftr-nav a {
+
+		padding: 0px 8px;
+
+		font-size: 16px;
+
+	}
+	.navbar-nav li a {
+
+		font-size: 13px;
+
+	}
+}
+
+
+
+@media screen and (min-width:768px) and (max-width: 991px) {
+
+	.navbar-nav li a {
+
+		font-size: 11px;
+
+		padding-right: 10px !important;
+
+		padding-left: 10px !important;
+
+	}
+
+	#top-head h1 {
+
+		font-size: 30px;
+
+	}
+
+	.ftr-cpy p {
+
+		font-size: 12px;
+
+	}
+
+	.ftr-nav a {
+
+		padding: 0px 8px;
+
+		font-size: 11px;
+
+	}
+
+}
+
+
+
+@media screen and (max-width:767px) {
+
+	.navbar-brand {
+
+		display: block;
+
+	}
+
+	.navbar-dark .navbar-toggler {
+
+		color: #fff;
+
+		border-color: #fff;
+		width: auto;
+
+	}
+	.navbar-dark .navbar-toggler:hover {
+		background-color: transparent;
+	}
+
+	#top-logo {
+
+		display: none;
+
+	}
+
+	#top-head h1 {
+
+		font-size: 26px;
+
+	}
+
+	#top-head h1 br {
+
+		display: none;
+
+	}
+
+	#top-head .container {
+
+		text-align: left !important;
+
+	}
+
+	.user-area {
+
+		justify-content: flex-start !important;
+
+		-webkit-justify-content: flex-start !important;
+
+	}
+
+	.hdr-scl {
+
+		position: relative;
+
+		top: 0px;
+
+		left: 0;
+
+	}
+
+	.hdr-scl ul li {
+
+		margin-bottom: 0px;
+
+		display: inline-block;
+
+	}
+
+	.txt2-img {
+
+		padding: 0px 0px 0px 10px;
+
+	}
+
+	.h-text {
+
+		font-size: 20px;
+
+	}
+
+	.ftr-lft {
+
+		text-align: center;
+
+	}
+
+	.ftr-lft p {
+
+		margin: 0 auto;
+
+	}
+
+	.ftr-rgt.text-right {
+
+		text-align: center !important;
+
+		margin-top: 15px;
+
+	}
+
+	.ftr-nav a {
+
+		padding: 0px 0px 20px;
+
+		display: block;
+
+	}
+
+	.s-md {
+
+		display: block;
+
+	}
+
+	.h-md {
+
+		display: none;
+
+	}
+
+	.ftr-nav {
+
+		margin-top: 25px;
+
+	}
+	.d2-img {
+    float: right;
+    padding-left: 30px;
+    max-width: 60%;
+}
+
+}
+
+
+
+@media screen and (min-width:576px) and (max-width: 767px) {}
+
+
+
+@media screen and (min-width:481px) and (max-width: 575px) {}
+
+
+
+@media screen and (min-width:320px) and (max-width: 480px) {
+
+	.user-area {
+
+		font-size: 13px;
+
+	}
+
+}
